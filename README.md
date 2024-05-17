@@ -1,11 +1,11 @@
-<!-- This file will be linked to from other library files. It is the description file for this effort. (Delete this line.) -->
+### This file will be linked to from other library files. It is the description file for this effort. (Delete this line.)
 
-<!-- The following library navigation line should be the same for all efforts. -->
+#### The following library navigation line should be the same for all efforts. (Delete this line.)
 #### Library Main Navigation: &nbsp; &nbsp;  [Ecosystem Use Case Library Home](https://github.com/NIH-NICHD-Ecosystem) &nbsp; | &nbsp;[User Stories](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/README.md)  &nbsp; | &nbsp; [Use Cases](https://github.com/NIH-NICHD-Ecosystem/UseCases/blob/main/README.md) &nbsp; | &nbsp; [Efforts](https://github.com/NIH-NICHD-Ecosystem/Efforts/blob/main/README.md) &nbsp; | &nbsp; [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md)
 
 </br>
 
-# [Replace next line with "E\<effort-number\>: Effort Name" and delete this line]
+### [Replace next title line with "E\<effort-number\>: Effort Name" and delete this line]
 # E1: Data Repository Finder 
 
 <br/><br/>
@@ -17,13 +17,13 @@
 Other text, if needed
 <br/><br/>
 
-## [Keep this section title as is. Delete this line.]
+### [Keep this section title as is. Delete this line.]
 ## Effort Overview
 <p> Enter an overview, more detailed than the Brief Description, above.</p>
 <br/>
 
 #### [Enter primary contact. It may be a name, phone number, email link, etc. Delete this line.]
-#### Primary contact:  [Data-Repository-Finder-Support@ll.mit.edu](mailto:Data-Repository-Finder-Support@ll.mit.edu?subject=Data-Repository-Finder-Support)<br/>
+#### Primary contact:  [This-Effort-Support@effort.builder.com](mailto:This-Effort-Support@effort.builder.com?subject=This-Effort-Support)<br/>
 <br/>
 
 #### [Enter the following details. Delete this line and text below in baces.]
@@ -33,12 +33,12 @@ Other text, if needed
 * <b> Sponsor contact:</b> [Name, phone number, email link, or other contact method for effort ssponsor ]
 <br/><br/>
 
-## [Keep this section title as is. Delete this line.]
+### [Keep this section title as is. Delete this line.]
 ## Effort Scope
 
 ### [> Effort Documentation](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/blob/main/Documentation/Use-Cases-Overview.md) 
 
-## [Keep this section title as is. Delete this line.]
+### [Keep this section title as is. Delete this line.]
 ### Related Use Cases and User Stories
 [A markdown table of Use Cases and UserStories implemented by this Effort. Replace the two example lines with lines for your effort. Delete this line.]
 | UC# | Use Case  |  User Story    | 
