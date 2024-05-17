@@ -1,13 +1,16 @@
+<!-- This file will be linked to from other library files. It is the description file for this effort. (Delete this line.) -->
+
+<!-- The following library navigation line should be the same for all efforts. -->
 #### Library Main Navigation: &nbsp; &nbsp;  [Ecosystem Use Case Library Home](https://github.com/NIH-NICHD-Ecosystem) &nbsp; | &nbsp;[User Stories](https://github.com/NIH-NICHD-Ecosystem/UserStories/blob/main/README.md)  &nbsp; | &nbsp; [Use Cases](https://github.com/NIH-NICHD-Ecosystem/UseCases/blob/main/README.md) &nbsp; | &nbsp; [Efforts](https://github.com/NIH-NICHD-Ecosystem/Efforts/blob/main/README.md) &nbsp; | &nbsp; [Library Help](https://github.com/NIH-NICHD-Ecosystem/LibraryHelp/blob/main/README.md)
 
 </br>
 
-# [Replace this with "E\<effort-number\>: Effort Name" and delete this line]
+# [Replace next line with "E\<effort-number\>: Effort Name" and delete this line]
 # E1: Data Repository Finder 
 
 <br/><br/>
 ### [A logo or image may appear here, using markdown link syntax as in next line. (Delete this line or entire section if no image.)]
-![About the image text](./assets/En-Sample.png)
+![This is a sample image](./assets/En-Sample.png)
 <br/>
 
 ### Brief desccription text for the effort goes here.
