@@ -7,5 +7,6 @@ Several files are initially here just as examples of the connections between the
 * [E1_Data-Repository-Finder 1_Use-Cases/Assets](https://github.com/NIH-NICHD-Ecosystem/E1_Data-Repository-Finder/tree/main/Documentation/1_Use-Cases/Assets)
 
 It is recommended that the files imported by efforts files be named with a prefix of "E\<effort number\>-" followed by descriptive name.
+<br/>
 It is recommended that the files imported by use case files be named with a prefix of "UC\<effort number\>.\<use case number\>-" followed by descriptive name.
 </br> 
